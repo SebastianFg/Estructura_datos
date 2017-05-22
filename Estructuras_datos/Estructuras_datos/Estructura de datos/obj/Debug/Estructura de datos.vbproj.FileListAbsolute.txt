@@ -1,0 +1,10 @@
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbprojResolveAssemblyReference.cache
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Resources.resources
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.GenerateResource.Cache
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.pdb
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.xml
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.exe
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.xml
+C:\Users\Seba\documents\visual studio 2017\Projects\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.pdb
